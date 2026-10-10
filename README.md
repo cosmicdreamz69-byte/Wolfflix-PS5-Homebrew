@@ -27,10 +27,18 @@ FIRST LAUNCH
   Options > Account ("Already have a Wolfflix website account?").
 
 CONTROLS
-  D-pad / stick  move            X  open / play / pause      O  back
-  L1 / R1        sections        Triangle  search             Options  account
-  In the player:  Left/Right 10 s, L1/R1 1 min, Square = server, audio and subtitles,
-                  Triangle = stats
+  D-pad / stick = move
+  X = open / play / pause 
+  O = back
+  L1 / R1 = sections        
+  Triangle = search             
+  Options = account
+  
+  In the player:  
+  D-pad / stick Left/Right = Skip 10 s 
+  L1/R1 = Skip 1 min
+  Square = server, audio and subtitles
+  Triangle = stats (for nerds)
 
 CHECKSUM (SHA-256 of the zip)
   1c3129a1be292f96b876be26c742f14262f66398c0efd5bf1e2fc3b924b1ec01
